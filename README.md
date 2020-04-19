@@ -1,0 +1,1 @@
+Credited to https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121?source=friends_link&sk=13d172e0aec3b14f758c0968a8798145
